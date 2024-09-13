@@ -1,4 +1,4 @@
-## IT Project Management for Jack Ventures
+# IT Project Management for Jack Ventures
 
 # Project Overview
 Jack Ventures Ltd, a leading travel agency, is developing a unified web application to improve efficiency and enhance customer satisfaction for price-hunters and travel agents.
